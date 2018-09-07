@@ -16,4 +16,4 @@ This is an example of how a PROJ4 Definition String for the UTM Zone 32N looks l
  
  And the whole as a GIF Animation:
  
-![GIF Animation of getting the PROJ4 Definition](.assets/get-proj4-definition.gif)
+![GIF Animation of getting the PROJ4 Definition](./get-proj4-definition.gif)
