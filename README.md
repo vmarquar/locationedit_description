@@ -16,4 +16,9 @@ This is an example of how a PROJ4 Definition String for the UTM Zone 32N looks l
  
  And the whole as a GIF Animation:
  
-![GIF Animation of getting the PROJ4 Definition](./get-proj4-definition.gif)
+![GIF Animation of getting the PROJ4 Definition from EPSG.io](./get-proj4-definition.gif)
+
+##### Method #2: Getting the definition string with QGIS
+
+![GIF Animation of getting the PROJ4 Definition with QGIS](./get-proj4-def-with-qgis.gif)
+
