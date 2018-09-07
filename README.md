@@ -22,3 +22,9 @@ This is an example of how a PROJ4 Definition String for the UTM Zone 32N looks l
 
 ![GIF Animation of getting the PROJ4 Definition with QGIS](./get-proj4-def-with-qgis.gif)
 
+#### 2. Paste your proj4 definition into your moreapp widget
+You set the projection coordinate system by pasting the proj4 definition file into the widget. To do so you have to open the `property panel` by clicking the pencil/edit symbol when hovering over your widget. Then paste your copied string into the `PROJ4 Definition String` Section.
+
+![GIF Animation of getting the PROJ4 Definition with QGIS](./get-proj4-def-with-qgis.gif)
+
+
